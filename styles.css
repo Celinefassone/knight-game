@@ -6,3 +6,13 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.box {
+  position: relative;
+  display: flex;
+  top: 150px;
+  left: 250px;
+  background-color: lightgreen;
+  height: 300px;
+  width: 300px;
+}
